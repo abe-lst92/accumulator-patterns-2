@@ -1,0 +1,1 @@
+# accumulator-patterns-2
